@@ -1,0 +1,15 @@
+{
+    "name": "eiman/uzduotis-oop2",
+    "autoload": {
+        "psr-4": {
+            "OOP2\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "E1mantass",
+            "email": "meimantas9@gmail.com"
+        }
+    ],
+    "require": {}
+}
